@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 30 Jun 2024 22:34 UTC
-# Version: 2024.0630.2234.30
+# Last modified: 12 Jul 2024 22:43 UTC
+# Version: 2024.0712.2243.52
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1065
+# Number of entries: 1058
 #
 local=/ns.00dani.me/
 local=/cdn.0ms.dev/
@@ -202,8 +202,6 @@ local=/api.cloudflareclient.com/
 local=/cloudflareresolve.com/
 local=/voyage-s01.cloudku.technology/
 local=/adguard.cloudmini.net/
-local=/cloudns.net/
-local=/dns-secondary.cloudnx.cloud/
 local=/dns-fr-psv1.cloudsides.com/
 local=/dns.cloudtrust.solutions/
 local=/ca.doh.cloudveil.org/
@@ -454,7 +452,6 @@ local=/dns.api.integration.globuscs.info/
 local=/dns.api.sandbox.globuscs.info/
 local=/dns.api.staging.globuscs.info/
 local=/dns.api.test.globuscs.info/
-local=/dns.glorydns.com/
 local=/dns.gnb09.id/
 local=/privacydns.go6lab.si/
 local=/dns.goldplate.org/
@@ -524,7 +521,6 @@ local=/dns1.in-berlin.de/
 local=/adblock.indianets.net/
 local=/dns.indust.me/
 local=/dns.indybanipal.com/
-local=/dns.infosec.xyz/
 local=/doh.infracell.net/
 local=/inpssh.online/
 local=/qlf-doh.inria.fr/
@@ -600,7 +596,6 @@ local=/doh.libredns.gr/
 local=/dot.libredns.gr/
 local=/sby-doh.limotelu.org/
 local=/dns.linkr.ninja/
-local=/dns2.linzefeng.top/
 local=/dns.lobbygod.com/
 local=/doh.dns1.lonet.org/
 local=/doh.phdns1.lonet.org/
@@ -947,7 +942,6 @@ local=/dns.spirio.fr/
 local=/sriedmueadguard.casa/
 local=/adguard.sscw.win/
 local=/doh.ntu.ssooss.win/
-local=/ag.ssrahul96.xyz/
 local=/dns.sstomp.nl/
 local=/dns.startupstack.tech/
 local=/dns.stevenz.net/
@@ -996,7 +990,6 @@ local=/dot.tooli.ca/
 local=/nsc.torgues.net/
 local=/doh.totoro.pub/
 local=/dns.tracker.ink/
-local=/nebula.tru.io/
 local=/dns.trust404.win/
 local=/truta.org/
 local=/dns.tryk.app/
